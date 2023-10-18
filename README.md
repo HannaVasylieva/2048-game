@@ -20,7 +20,7 @@ This is a simple implementation of the classic 2048 game created using HTML, CSS
 - JavaScript: For game logic and interactivity.
 
 ## DEMO Link
-[DEMO LINK](https://HannaVasylieva.github.io/js_2048_game/)
+[DEMO LINK](https://HannaVasylieva.github.io/2048-game/)
 
 ## Example
 [EXAMPLE](https://play2048.co/)
