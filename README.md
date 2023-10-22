@@ -23,7 +23,7 @@ This is a simple implementation of the classic 2048 game created using HTML, CSS
 [DEMO LINK](https://HannaVasylieva.github.io/2048-game/)
 
 ## Example
-[EXAMPLE](https://play2048.co/)
+The game was written based on the famous [game 2048](https://play2048.co/)
 
 ## Getting Started
 
