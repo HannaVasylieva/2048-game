@@ -1,20 +1,12 @@
-# 2048 Game Project
-
-## Project Description:
-
-This is a simple implementation of the classic 2048 game created using HTML, CSS (with SCSS), and JavaScript. The game provides a grid of cells in which the player can merge numbers to reach the winning score of 2048. The game grid consists of 16 cells, and the player can move the tiles in four directions: up, down, left, and right. After each move, a new tile with a value of either 2 or 4 is added to an empty cell.
-
+Double-Up Game is a simple implementation of the classic 2048 game created using HTML, CSS (with SCSS), and JavaScript. The game provides a grid of cells in which the player can merge numbers to reach the winning score of 2048. The game grid consists of 16 cells, and the player can move the tiles in four directions: up, down, left, and right. After each move, a new tile with a value of either 2 or 4 is added to an empty cell.
 ## Features:
-
 - Start or restart the game.
 - Move tiles in all four directions.
 - Merge tiles with the same value to increase the score.
 - Keep track of the player's score.
 - Display a win message when the player reaches 2048.
 - Display a lose message when there are no more valid moves.
-
-## Technologies Used
-
+## Technologies:
 - HTML: For creating the game structure.
 - CSS and SCSS: For styling the game and user interface.
 - JavaScript: For game logic and interactivity.
